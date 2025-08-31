@@ -1,2 +1,2 @@
 # TraceSystemCall
-for learning
+for learning linux kernel ,   system programmin, low level programming
